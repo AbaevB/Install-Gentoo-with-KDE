@@ -67,7 +67,7 @@ livecd ~ # nano -w /etc/portage/make.conf
  ```
  USE="-gtk -gnome qt4 qt5 kde dvd alsa cdr ibm firmware"
  ```
-### Настройка переменной ACCEPT_LICENSE
+#### Настройка переменной ACCEPT_LICENSE
 
 >> Требуется для установки несвободного ПО (в нашем случае это как минимум, __*genkernel*__):
 
